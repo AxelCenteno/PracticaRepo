@@ -1,5 +1,7 @@
 # PracticaRepo
 Ejercicios de práctica GIT
 
-mi primer aocntribución local para Github
+mi primera contribución local para Github
+
+Desde github
 
