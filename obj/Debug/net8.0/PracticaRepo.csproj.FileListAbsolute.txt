@@ -1,0 +1,15 @@
+/workspaces/PracticaRepo/bin/Debug/net8.0/PracticaRepo
+/workspaces/PracticaRepo/bin/Debug/net8.0/PracticaRepo.deps.json
+/workspaces/PracticaRepo/bin/Debug/net8.0/PracticaRepo.runtimeconfig.json
+/workspaces/PracticaRepo/bin/Debug/net8.0/PracticaRepo.dll
+/workspaces/PracticaRepo/bin/Debug/net8.0/PracticaRepo.pdb
+/workspaces/PracticaRepo/obj/Debug/net8.0/PracticaRepo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PracticaRepo/obj/Debug/net8.0/PracticaRepo.AssemblyInfoInputs.cache
+/workspaces/PracticaRepo/obj/Debug/net8.0/PracticaRepo.AssemblyInfo.cs
+/workspaces/PracticaRepo/obj/Debug/net8.0/PracticaRepo.csproj.CoreCompileInputs.cache
+/workspaces/PracticaRepo/obj/Debug/net8.0/PracticaRepo.sourcelink.json
+/workspaces/PracticaRepo/obj/Debug/net8.0/PracticaRepo.dll
+/workspaces/PracticaRepo/obj/Debug/net8.0/refint/PracticaRepo.dll
+/workspaces/PracticaRepo/obj/Debug/net8.0/PracticaRepo.pdb
+/workspaces/PracticaRepo/obj/Debug/net8.0/PracticaRepo.genruntimeconfig.cache
+/workspaces/PracticaRepo/obj/Debug/net8.0/ref/PracticaRepo.dll
